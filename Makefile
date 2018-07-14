@@ -1,4 +1,4 @@
-IMAGE ?= cjimti/k8s-es
+IMAGE ?= txn2/k8s-es
 LABEL ?= v6.2.3
 
 .PHONY: all
